@@ -1,7 +1,7 @@
 {
   "name":        "superupload",
   "version":     "0.0.1",
-  "description": "SuperUpload challenger for SoundCloud",
+  "description": "Backend Developer Challenge for SoundCloud",
   "private":      true,
 
   "keywords": [],
