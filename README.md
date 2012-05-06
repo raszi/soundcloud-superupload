@@ -12,3 +12,11 @@ Tested and works with:
  - Safari 4, 5
  - Opera 9.64, 11
  - Lynx 2.8.7 -- without progressbar :)
+
+Install dependencies:
+
+    npm install
+
+Starts with:
+
+    node lib/server.js
