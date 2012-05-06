@@ -18,10 +18,6 @@
 
   "main": "lib/server.js",
 
-  "bin": {
-    "datasync": "./bin/datasync"
-  },
-
   "engines": {
     "node": "~0.4.0"
   },
